@@ -1,12 +1,12 @@
 h1 {
-    background: gray;
+    background: rgb(61, 60, 60);
     padding: 20px;
     text-align: center;
 }
 
 
 nav {
-    padding: 1px;
+    
     text-align: left; 
     display: flex;  
     flex-direction: column; 
@@ -25,19 +25,19 @@ nav a {
 
 article {
     flex: 2;
-    background: #3f413f;
+    background: gray;
     text-align: left;
 }
 
 aside {
     flex: 1;
-    padding: 20px 200px;
+    padding: 20px 300px;
     background-color: #f0f0f0;
     
 }
 
 footer {
-    background: #989C97;
+    background: #595a58;
     padding: 20px;
     text-align: center;
 }
